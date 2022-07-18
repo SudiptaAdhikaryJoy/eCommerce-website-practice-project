@@ -3,7 +3,7 @@ import { Header } from "./common/Header";
 
 export const TheLayout = () => {
   return (
-    <div>
+    <div className="flex">
       <div>
         <Header />
       </div>
